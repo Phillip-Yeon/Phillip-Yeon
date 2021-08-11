@@ -58,8 +58,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=phillip-yeon&show_icons=true&locale=en&layout=compact" alt="phillip-yeon" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=phillip-yeon&show_icons=true&locale=en" alt="phillip-yeon" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=phillip-yeon&" alt="phillip-yeon" /></p>
 
 
