@@ -1,23 +1,13 @@
 <h1 align="" style="margin-left: 30px;">Hi 👋, I'm Phillip Yeon</h1>
-<h3 align="center">I'm a junior developer&Future Entrepreneur and Social Marketer</h3>
+<h3 align="left">I'm a junior developer&Future Entrepreneur and Social Marketer</h3>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on **My Portfolio Site**
-
 - 🌱 I’m currently learning **Html, Css frontend, starting on Javascript.**
-
 - 👯 I’m looking to collaborate on **Many social platforms**
-
-- 🤝 I’m looking for help with **Many proeject template sites.**
-
-- 💬 Ask me about **About social Marketing and How to grow on SNS platforms.**
-
 - 📫 How to reach me **auroraim0219@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 <p align="left"> 
   
